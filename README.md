@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+*FOOD
+*JUICE
+*SNACKS
 
 - Bulleted
 - List
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.health.harvard.edu%2Fmind-and-mood%2Ffood-and-mood-is-there-a-connection&psig=AOvVaw1VYYcDPGY1K-OKUKaImKzf&ust=1585389909838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjfqOWzuugCFQAAAAAdAAAAABAD) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.diabetes.co.uk%2Fnutrition%2Finsoluble-fibre.html&psig=AOvVaw1VYYcDPGY1K-OKUKaImKzf&ust=1585389909838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjfqOWzuugCFQAAAAAdAAAAABAI)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
